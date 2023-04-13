@@ -1,0 +1,34 @@
+[] - Block chain home page
+[x] - Registration page => 
+        {
+          name,
+          username,
+          password,
+          mobile,
+          email,
+          adhar card number,
+        }
+[x] - Login Page => 
+        {
+          email or username,
+          password
+        }
+
+[x] - User Profile Page => view profile details
+
+
+[] - Ads Manager => 
+        {
+          view all ads,
+            create
+            edit
+            delete ads
+
+            ads inputs
+            photos,
+            location,
+            rate,
+            area, 
+
+          enquiry
+        }
